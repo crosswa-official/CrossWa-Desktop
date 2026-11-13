@@ -52,8 +52,8 @@
 
 | 版本文件 | 文件大小 | 适用场景 | 官方下载通道 |
 | :--- | :--- | :--- | :--- |
-| **CrossWa-Setup-v1.3.11.exe** | ~185 MB | **标准安装版（推荐）**：支持自动安装、生成桌面图标与静默更新 | [🚀 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.11/CrossWa-Setup-v1.3.11.exe) |
-| **CrossWa-portable-v1.3.11.exe** | ~185 MB | **绿色免安装版**：单文件解压即用，适合 U 盘携带或临时机房部署 | [📦 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.11/CrossWa-portable-v1.3.11.exe) |
+| **CrossWa-Setup-v1.3.12.exe** | ~185 MB | **标准安装版（推荐）**：支持自动安装、生成桌面图标与静默更新 | [🚀 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.12/CrossWa-Setup-v1.3.12.exe) |
+| **CrossWa-portable-v1.3.12.exe** | ~185 MB | **绿色免安装版**：单文件解压即用，适合 U 盘携带或临时机房部署 | [📦 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.12/CrossWa-portable-v1.3.12.exe) |
 
 > **系统要求**：Windows 10 / Windows 11 (64位操作系统)，建议具备 4GB 以上系统内存。
 
@@ -68,7 +68,7 @@ flowchart LR
 ```
 
 1. **第一步：下载并启动**
-   - 下载并运行 `CrossWa-Setup-v1.3.11.exe`，安装完成后打开桌面上的 **CrossWa** 图标。
+   - 下载并运行 `CrossWa-Setup-v1.3.12.exe`，安装完成后打开桌面上的 **CrossWa** 图标。
 2. **第二步：新建环境并绑定代理**
    - 点击主界面顶部「**添加环境**」，输入环境名称（例如：*欧洲客户接待01*）。
    - 填入你购买的海外 Socks5 或 HTTP 独享代理 IP，点击「保存环境」。
