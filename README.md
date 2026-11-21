@@ -52,8 +52,8 @@
 
 | 版本文件 | 文件大小 | 适用场景 | 官方下载通道 |
 | :--- | :--- | :--- | :--- |
-| **CrossWa-Setup-v1.3.13.exe** | ~185 MB | **标准安装版（推荐）**：支持自动安装、生成桌面图标与静默更新 | [🚀 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.13/CrossWa-Setup-v1.3.13.exe) |
-| **CrossWa-portable-v1.3.13.exe** | ~185 MB | **绿色免安装版**：单文件解压即用，适合 U 盘携带或临时机房部署 | [📦 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.13/CrossWa-portable-v1.3.13.exe) |
+| **CrossWa-Setup-v1.3.14.exe** | ~185 MB | **标准安装版（推荐）**：支持自动安装、生成桌面图标与静默更新 | [🚀 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.14/CrossWa-Setup-v1.3.14.exe) |
+| **CrossWa-portable-v1.3.14.exe** | ~185 MB | **绿色免安装版**：单文件解压即用，适合 U 盘携带或临时机房部署 | [📦 点击高速直连下载](https://github.com/crosswa-official/CrossWa-Desktop/releases/download/v1.3.14/CrossWa-portable-v1.3.14.exe) |
 
 > **系统要求**：Windows 10 / Windows 11 (64位操作系统)，建议具备 4GB 以上系统内存。
 
